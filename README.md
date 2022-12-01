@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesonBeckwith
-- 👀 I’m interested in ... Coding, Pentesting, Blacksmithing and Gaming
+- 👀 I’m interested in ... Coding, Pentesting, and Blacksmithing
 - 🌱 I’m currently learning ... HTML, CSS, JavaScrypt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: 1jameson0beckwith1@gmail.com
